@@ -10,6 +10,6 @@ export const Login = () => {
          <br />
          <button> <Link to = "/Dashboard">Login</Link></button>
      </form>
-
+  <img src="https://akm-img-a-in.tosshub.com/businesstoday/images/story/202011/jobs_660_170820114745_061120105734.jpg?size=1200:675"/>
     </div>
 }

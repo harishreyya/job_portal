@@ -1,7 +1,16 @@
 navbar{
     display: flex;
     justify-content: space-around;
-    background: grey;
-    color: bisque;
-    text-decoration:unset;
+    background:rgb(199, 185, 199);
+   
 }
+.Navbar > h2{
+    color:white;
+    text-decoration:unset;
+    font-family: sans-serif;
+}
+
+img{
+width: 500px;
+}
+
